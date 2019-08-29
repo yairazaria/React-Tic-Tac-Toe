@@ -1,0 +1,29 @@
+.root {
+  background-image: url('./img/backgroundimage.jpg')
+}
+
+.continer {
+  text-align: center;
+}
+
+.h1 {
+  font-size: xx-large bold;
+  font-family:Lucida Sa ns Unicode;
+}
+
+.h2 {
+  font-family:Lucida Sa ns Unicode ;
+}
+.box {
+  width: 90px;
+  height: 90px;
+  border: 1px solid black;
+  display: inline-block
+}
+
+
+.board {
+  display: inline-flex;
+  flex-wrap: wrap;
+  width: 320px;
+}
