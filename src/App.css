@@ -18,8 +18,12 @@
   width: 90px;
   height: 90px;
   border: 1px solid black;
-  display: inline-block
+  display: inline-block;
+  font-size: -webkit-xxx-large;
 }
+
+
+
 
 
 .board {
